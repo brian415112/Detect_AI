@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053853092847",
+    "project_id": "ai-detect-24afc",
+    "storage_bucket": "ai-detect-24afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053853092847:android:93977613418014355f841a",
+        "android_client_info": {
+          "package_name": "com.example.detect_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053853092847-8dsl7ipc6e82c8c7l8eo95i2ib9e8vuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IkHh9yD-CPh_yFqkCo05B-3-klLaCjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053853092847-8dsl7ipc6e82c8c7l8eo95i2ib9e8vuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
