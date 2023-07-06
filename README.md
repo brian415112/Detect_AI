@@ -1,7 +1,7 @@
 # Home Self-Health Monitoring system
 
 ## Introduction
-We design a system (mobile phone application) that makes users easily operate. Users just need a mobile phone and a sensor, then can do self-health monitoring. It also helps us reach telemedicine（telehealth）in crises, such as epidemics or other situations.
+We design a system (mobile phone application "**Medical Vanguard**") that makes users easily operate. Users just need a mobile phone and a sensor, then can do self-health monitoring. It also helps us reach telemedicine（telehealth）in crises, such as epidemics or other situations.
 
 Our system mainly collects three kinds of values, namely electrocardiogram, blood oxygen, and pulse by the sensor. Users can see the real-time data at the same time when they are detecting, and see the result of measurement at the end of the detection. After users finish detecting, they can choose to draw a picture as a measurement diary or not. 
 
