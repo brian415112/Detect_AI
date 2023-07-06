@@ -17,8 +17,20 @@ In the end, users can browse the previously uploaded cases. The users can check 
 * Programming Language : **Java**
 
 ## Database
-I am using the following two functions of firebase to store pictures and user data.
-| Function  | Introduction |
-| ------------- |---------------|
-| Cloud Storage for Firebase      | Cloud Storage for Firebase is built for app developers who need to store and serve user-generated content, such as photos or videos.     |
-| Cloud Firestore      | Use our flexible, scalable NoSQL cloud database to store and sync data for client- and server-side development.     |
+I am using the following two functions of **Firebase** to store pictures and user data.
+| Function  | Introduction | Picture |
+| ------------- |---------------|---------------|
+| **Cloud Storage**      | Cloud Storage for Firebase is built for app developers who need to store and serve user-generated content, such as photos or videos.     | ![image](https://github.com/brian415112/Detect_AI/blob/11ed8ab1d807c71fe85520452fbe68ae124739a7/image/Cloud%20Storage.png)     |
+| **Cloud Firestore**      | Use flexible, scalable NoSQL cloud database to store and sync data for client- and server-side development.     | ![image](https://github.com/brian415112/Detect_AI/blob/11ed8ab1d807c71fe85520452fbe68ae124739a7/image/Cloud%20Firestore.png)     |
+
+## Screenshot
+<img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/1.jpg" width="24%"> <img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/1-1.jpg" width="24%"> <img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/1-2.jpg" width="24%"> <img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/2.jpg" width="24%">
+
+<img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/3.jpg" width="24%"> <img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/3-1.jpg" width="24%"> <img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/3-2.jpg" width="24%"> <img src="https://github.com/brian415112/Detect_AI/blob/b6f5651dcb9decf20dfa581e0e78bb373fce5b61/image/screenshot/4.jpg" width="24%">
+
+## Hardware
+| Name | Picture |
+| :-------------: | :---------------: |
+| **Wemos D1 mini** | <img src="https://github.com/brian415112/Detect_AI/blob/c4edc6258a520a884e919b0048140393b3b732a3/image/hardware/Wemos%20D1%20mini.jpg" width="200">|
+| **AD8232**<br>*Use this to detect ECG.* | <img src="https://github.com/brian415112/Detect_AI/blob/c4edc6258a520a884e919b0048140393b3b732a3/image/hardware/AD8232.jpg" width="200">|
+| **MAX30100**<br>*Use this to detect blood oxygen and pulse.* | <img src="https://github.com/brian415112/Detect_AI/blob/c4edc6258a520a884e919b0048140393b3b732a3/image/hardware/MAX30100.jpg" width="200">|
