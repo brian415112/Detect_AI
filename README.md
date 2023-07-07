@@ -34,3 +34,6 @@ I am using the following two functions of **Firebase** to store pictures and use
 | **Wemos D1 mini** | <img src="https://github.com/brian415112/Detect_AI/blob/c4edc6258a520a884e919b0048140393b3b732a3/image/hardware/Wemos%20D1%20mini.jpg" width="200">|
 | **AD8232**<br>*Use this to detect ECG.* | <img src="https://github.com/brian415112/Detect_AI/blob/c4edc6258a520a884e919b0048140393b3b732a3/image/hardware/AD8232.jpg" width="200">|
 | **MAX30100**<br>*Use this to detect blood oxygen and pulse.* | <img src="https://github.com/brian415112/Detect_AI/blob/c4edc6258a520a884e919b0048140393b3b732a3/image/hardware/MAX30100.jpg" width="200">|
+
+### demo
+<img src="https://github.com/brian415112/Detect_AI/blob/f498b93f01e298d56757f6f156e6864cd4b32c08/image/hardware/demo.jpg" width="50%">
